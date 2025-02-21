@@ -1,0 +1,11 @@
+heya i coded a calculator using
+•HTML
+•CSS
+•JavaScript
+-----------------------------------
+STRUCTURE
+
+basic_calculator/
+├── index.html
+├── style.css
+└── script.js
